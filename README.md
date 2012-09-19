@@ -9,3 +9,6 @@ Libs for HTML5 Usage
 	
 2-	Button Switch
 	CSS3 Button switch
+	
+3-	Rotating words
+	Beautiful rotating words and text transitions CSS3
